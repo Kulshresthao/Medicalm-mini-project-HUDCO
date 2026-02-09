@@ -1,6 +1,4 @@
-Okay, here's a rewrite of that text, making it sound more human and less AI-generated.
-
-**Mediclaim Analytics Dashboard – HUDCO PSU Case Story**
+*Mediclaim Analytics Dashboard – HUDCO PSU Case Story*
 
 **1️⃣ The Story: Why We Built This Thing**
 
